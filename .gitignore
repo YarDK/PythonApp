@@ -2,3 +2,4 @@ __pycache__/
 env/
 wtf_do_u_do.txt
 .idea/
+*.db
